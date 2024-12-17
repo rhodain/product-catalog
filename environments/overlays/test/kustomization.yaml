@@ -1,4 +1,4 @@
-namespace: test-product-catalog2
+namespace: test-product-catalog-1
 resources:
 - namespace.yaml
 - github.com/gnunn-gitops/product-catalog/components/apps/database/base
