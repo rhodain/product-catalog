@@ -7,4 +7,4 @@ metadata:
     app.openshift.io/vcs-ref: main
   labels:
     argocd.argoproj.io/managed-by: openshift-gitops
-  name: test-product-catalog2
+  name: test-product-catalog-1
